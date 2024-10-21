@@ -1,0 +1,62 @@
+#separator:tab
+#html:true
+Qual o propósito do Scrum?	Habilitar o desenvolvimento de projetos com colaboração, transparência, inspeção e adaptação.
+Quais são os três pilares do Scrum?	Transparência, inspeção e adaptação.
+O Manifesto Ágil valoriza '.........' mais que '.........'	&nbsp;indivíduos e interações / processos e ferramentas.&nbsp;
+Para um time Scrum de alto desempenho, é necessário foco em '.........' e '.........';	comprometimento, colaboração.
+Qual o papel do Product Owner?	Gerenciar o product backlog e garantir que o produto entregue tenha o maior valor agregado.&nbsp;
+Scrum é mais adequado para projetos que envolvem '.........' e entregas '.........'	incerteza, incrementais.
+Qual é a técnica para priorizar itens no backlog chamada MoSCoW?	Must have, Should have, Could have, Won't have.
+Quais os papéis do Scrum team?	Scrum Master, Product Owner e Developers.
+O evento Daily Scrum tem duração máxima de '.........' e ocorre '.........'	15 minutos, diariamente.
+Qual é a meta principal de uma Sprint no Scrum?	Criar um incremento no produto que possa ser liberado.
+Qual das opções descreve o papel do Scrum Master?&nbsp;a) Gerenciar o backlog, b) Facilitar a colaboração no time, c) Programar sprints, d) Definir metas de produto.	b) Facilitar a colaboração no time
+O que caracteriza a adaptação no Scrum? <br>a) Transparência entre equipes.<br>b) Responder rapidamente às mudanças.<div>c) Seguir um plano.</div><div>d) Negociar contratos.</div>	b) Responder rapidamente às mudanças.
+Qual dos seguintes eventos ocorre ao final de cada Sprint? <br>a) Sprint Planning.<div>b) Daily Scrum.</div><div>c) Sprint Review.</div><div>d) Product Backlog Refinement.</div>	c) Sprint Review.&nbsp;
+A técnica Scrum Poker é usada para '.........' as tarefas	estimar.
+A Sprint Planning tem como objetivo definir o '.........' da Sprint	backlog
+O que é o Product Backlog?	Uma lista priorizada de tudo o que é necessário para o produto.
+No Scrum, o '.........' documenta o que será feito durante a Sprint	sprint backlog
+Qual evento é reservado para identificar melhorias no processo? <br>a) Daily Scrum.<div>b) Sprint Retrospective.</div><div>c) Sprint Review.</div><div>d) Planning Poker.</div>	b) Sprint Retrospective.
+O que é o incremento no Scrum?	&nbsp;A soma das entregas feitas durante a Sprint, que precisa atender à definição de pronto.
+Quando usar o Kanban como complemento ao Scrum?	Para dar transparência e gerenciar o fluxo de trabalho.
+O que é o Kanban?	Um sistema de gestão visual que utiliza cartões para registrar atividades e melhorar o fluxo de trabalho.
+Qual é a origem do Kanban?	Surgiu como parte do sistema Toyota de produção nos anos 1950.
+No sistema Kanban, o '.........' gera a demanda pela oferta, ajustando o ritmo produtivo.	cliente.
+Os principais valores do Kanban são '.........', '.........' e '.........'.	transparência, equilíbrio, colaboração.
+No Kanban, o foco está sempre no '.........' percebido pelo cliente.	valor.
+O que significa limitar o Work in Progress (WIP)?	Estabelecer um limite de atividades em andamento para evitar sobrecarga e garantir foco.
+Qual a diferença entre o Upstream e o Downstream Kanban?	Upstream foca na preparação de ideias, enquanto Downstream foca no desenvolvimento e entrega.
+Qual é o papel do Service Delivery Manager (SDM) no Kanban?	Gerenciar o fluxo de trabalho e garantir que as entregas sejam realizadas conforme o planejado.
+&nbsp;A métrica '.........' mede o tempo entre a data de compromisso e a entrega ao cliente.	lead time.
+Qual das opções descreve o principal benefício do Kanban?&nbsp;<div>a) Controle centralizado.</div><div>b) Comunicação limitada.</div><div>c) Flexibilidade e adaptação.</div><div>d) Foco na documentação.</div>	c) Flexibilidade e adaptação.
+Qual prática do Kanban sugere puxar tarefas apenas quando houver capacidade disponível?&nbsp;<div>a) Limitar WIP.</div><div>b) Quadro visual.</div><div>c) Feedback loops.</div><div>d) Transparência.</div>	a) Limitar WIP.
+O Kanban é ideal para que tipo de ambiente?&nbsp;<div>a) Predizível.</div><div>b) Volátil.</div><div>c) Estável.</div><div>d) Sem colaboração.</div>	b) Volátil.
+No XP, o valor '.........' enfatiza a resolução rápida de problemas em um time.	coragem.
+A prática de '.........' no XP consiste em lançar pequenas versões incrementais do produto.	small releases.&nbsp;
+O desenvolvimento orientado a testes (TDD) permite que o desenvolvedor escreva primeiro o '.........'.	teste unitário.
+O valor '.........' do XP incentiva o feedback constante e a melhoria contínua.	simplicidade.
+Qual é o objetivo da prática de programação em pares (Pair Programming)?	Garantir que o código seja revisado por dois desenvolvedores simultaneamente.
+Qual das opções é uma prática do XP? <br>a) Scrum Master.<br>b) Pair Programming.<div>c) Product Owner.</div><div>d) Backlog Refinement.</div>	b) Pair Programming.&nbsp;
+O que é a refatoração (Refactoring) no XP?	Um processo de melhoria contínua do código, sem alterar sua funcionalidade.
+Em que contexto o XP é mais indicado?	Pequenas equipes que trabalham com mudanças rápidas nos requisitos.
+Qual é o principal objetivo do PMBOK?	Guiar as melhores práticas de gerenciamento de projetos com base em princípios e domínios de desempenho.
+Quais os três tipos de abordagem no PMBOK 7?	Abordagem preditiva, abordagem ágil e abordagem híbrida.
+O PMBOK 7 deixa de ser baseado em '.........' e passa a ser orientado por '.........'.	processos, princípios.
+O que é o Tailoring no PMBOK?	A adaptação da abordagem de projetos conforme o contexto específico de cada projeto.
+Os princípios do PMBOK são aplicáveis a '.........' tipos de projetos.	todos os.
+Qual o foco da abordagem preditiva?	Definir o que será feito desde o início do projeto com mudanças restritas.
+Na abordagem ágil, o planejamento é '.........' e as mudanças são '.........'.	periódico, bem-vindas.
+Qual o propósito de criar equipes de alto desempenho no PMBOK?	Garantir que as entregas tenham valor e sejam eficazes.
+"O que o princípio de ""Valor"" enfatiza no PMBOK?"	Que o projeto só deve existir se gerar valor perceptível para as partes interessadas.
+"O que o domínio de desempenho de ""Partes Interessadas"" busca?"	Criar uma relação produtiva com as partes interessadas ao longo do projeto.
+Qual mudança foi introduzida no PMBOK 7?<div>a) Redução dos princípios</div><div>b) Inclusão de novos processos</div><div>c) Passagem de processos para princípios</div><div>d) Foco exclusivo em métodos ágeis</div>	c) Passagem de processos para princípios.
+Qual princípio do PMBOK enfatiza a necessidade de avaliar e reagir às interações do sistema? <br>a) Liderança.<br>b) Qualidade.<br>c) Pensamento sistêmico.<br>d) Tailoring	c) Pensamento sistêmico.
+"O que significa o princípio de ""Administração"" no PMBOK? <br>a) Foco exclusivo em liderança.<div>b) Respeitar e garantir a conformidade em todas as entregas.<br>c) Gerir riscos.</div><div>d) Conduzir mudanças</div>"	b) Respeitar e garantir a conformidade em todas as entregas.
+Quais os três valores essenciais do Scrum que o PMBOK adota?	Compromisso, foco e respeito.
+"No domínio ""Equipe"", o que é enfatizado para o sucesso do projeto?"	A criação de um ambiente colaborativo.
+Quais são os eventos do Scrum mencionados no framework do PMBOK?	Sprint, Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective.
+"O que o domínio ""Medição"" do PMBOK inclui?"	A avaliação do desempenho do projeto e a tomada de ações corretivas.
+No PMBOK, a '.........' é uma estrutura hierárquica que define as entregas do projeto.	estrutura analítica do projeto (EAP).
+Qual a função principal do Daily Scrum?	Revisar o progresso em direção à meta da Sprint.
+O que é o Product Backlog no Scrum?	Uma lista priorizada de tudo que é necessário no produto.
